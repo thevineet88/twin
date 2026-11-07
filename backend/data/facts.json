@@ -1,0 +1,59 @@
+{
+  "full_name": "Vinit Brahmankar",
+  "name": "Vinit",
+  "current_role": "Senior Frontend / Design Engineer at Jiffy",
+  "location": "Pune, India (works fully remote)",
+  "email": "vineet.brahmankar@gmail.com",
+  "linkedin": "linkedin.com/in/vinit-brahmankar",
+  "website": "https://itsvinit.dev",
+  "specialties": [
+    "React, TypeScript and Next.js frontend architecture",
+    "The design-engineering bridge: Figma flows through to production code",
+    "Design systems: token architecture, component APIs, variant systems",
+    "Web performance and Core Web Vitals (LCP, CLS, INP)",
+    "Growth and marketing engineering: analytics instrumentation, A/B testing, conversion funnels",
+    "Accessibility to WCAG 2.1 AA",
+    "AI-native developer workflows and multi-agent systems"
+  ],
+  "years_experience": "almost 8 years",
+  "education": [
+    {
+      "degree": "M.Tech in AI & Data Science (in progress)",
+      "institution": "Savitribai Phule Pune University (SPPU)",
+      "year": "In progress",
+      "notes": "Research is in agentic-browser and MCP/WebMCP security and privacy. Papers are in progress, not published or accepted."
+    },
+    {
+      "degree": "B.E. Computer Engineering",
+      "institution": "Vishwakarma Institute of Information Technology, Pune",
+      "year": "2014 - 2018"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Jiffy",
+      "role": "Senior Frontend / Design Engineer",
+      "period": "Aug 2025 - Present",
+      "location": "Remote"
+    },
+    {
+      "company": "Publicis Sapient",
+      "role": "Senior Frontend / Design Engineer",
+      "period": "Jan 2022 - Aug 2025",
+      "location": "Remote",
+      "notes": "Primary client was Marks & Spencer, one of the UK's largest retail platforms, serving millions of monthly users. Owned performance, experimentation, accessibility and marketing technology across high-traffic customer journeys."
+    },
+    {
+      "company": "Connecticus Technologies",
+      "role": "Software Engineer",
+      "period": "Jul 2019 - Jan 2022",
+      "location": "Pune, India"
+    },
+    {
+      "company": "Accenture",
+      "role": "Associate Software Engineer",
+      "period": "Oct 2018 - Jul 2019",
+      "location": "Bangalore, India"
+    }
+  ]
+}
